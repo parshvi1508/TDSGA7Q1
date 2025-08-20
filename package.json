@@ -1,0 +1,26 @@
+{
+  "name": "q3-2024-earnings-presentation",
+  "version": "1.0.0",
+  "description": "Interactive RevealJS presentation for Q3 2024 earnings report",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required for static HTML'",
+    "deploy": "echo 'Deploy via GitHub Pages'"
+  },
+  "keywords": [
+    "revealjs",
+    "presentation",
+    "earnings",
+    "financial",
+    "interactive"
+  ],
+  "author": "24f1001723@ds.study.iitm.ac.in",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[USERNAME]/[REPOSITORY-NAME].git"
+  },
+  "homepage": "https://[USERNAME].github.io/[REPOSITORY-NAME]/"
+}
